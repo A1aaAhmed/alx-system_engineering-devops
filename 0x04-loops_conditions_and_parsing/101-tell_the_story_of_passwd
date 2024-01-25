@@ -21,4 +21,4 @@ do
 	echo -n "rides ${fields[6]}. ${fields[2]}'s place is protected by the passcode ${fields[1]}, more "
 	echo "info about the user here: ${fields[4]}"
 	(( i++ ))
-don
+done
